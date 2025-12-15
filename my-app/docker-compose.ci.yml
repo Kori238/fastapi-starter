@@ -1,0 +1,6 @@
+services:
+  backend:
+    image: "my-app-backend:latest"
+
+  frontend:
+    image: "my-app-frontend:latest"
